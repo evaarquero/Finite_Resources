@@ -1,4 +1,4 @@
-# FINITE RESOURCES:
+# Raw materials analysis:
 
 ## What raw materials and resources are finite?
 All raw materials used daily are finites, coming from minary, extraction, deforestation, etc. At the rythn of population growth, how long these resources will last? 
