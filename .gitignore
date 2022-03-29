@@ -7,3 +7,4 @@
 *.ipynb_checkpoints/
 data
 ideas_proyectos
+.gitignore
